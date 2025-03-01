@@ -1,16 +1,25 @@
-## Hi there 👋
+<div align="center">
+   <h1>Oii, meu nome é Isadora Bessa
+      <img align="right"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+   </h1>
+</div>
 
-<!--
-**isadorabss/isadorabss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<center>
+  <table>
+    <tr>
+        <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isadorabss&hide=html&layout=compact&show-icons=true&theme=dracula"/></td>
+        <td><img width="495px" align="center" src="https://github-readme-stats.vercel.app/api?username=isadorabss&show_icons=true&theme=dracula"/></td>
+    </tr>
+  </table>
+</center>  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Graduanda em Bacharelado de Ciências da Computação pela Universidade Estadual da Paraíba (UEPB);
+
+- 💡 Me interesso por números, criatividade, causas sociais e comunicação;
+
+- ⭐ Atualmente estudando Python para Olimpíadas de Programação;
+  
+- 🎀 No meu tempo livre eu gosto de ler e assistir bons filmes.
+
+  
