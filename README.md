@@ -20,6 +20,6 @@
 
 - ⭐ Atualmente estudando Python para Olimpíadas de Programação;
   
-- 🎀 No meu tempo livre eu gosto de ler e assistir bons filmes.
+- 🎀 No meu tempo livre gosto de ler e assistir bons filmes.
 
   
